@@ -126,7 +126,7 @@ Single file, no external config needed. Just Python + PyQt5 + Scapy.
 
 ## About
 
-Built as part of **Cyberium Academy NX216 — Network Forensics** certification track.  
-Part of the John Bryce / ThinkCyber cybersecurity program.
+Built as part of **Network Forensics** certification track.  
+
 
 Connects to real-world skills: Wireshark analysis, C2 detection, network IOC hunting, MITRE ATT&CK framework.
