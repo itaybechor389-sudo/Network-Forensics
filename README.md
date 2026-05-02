@@ -3,7 +3,7 @@
 **Advanced PCAP analysis tool with automatic MITRE ATT&CK mapping.**  
 Built for SOC Analysts and Network Forensics investigators.
 
-> Cyberium Academy — NX216 Network Forensics  
+>  Network Forensics  
 > Author: Itay Bechor
 
 ---
